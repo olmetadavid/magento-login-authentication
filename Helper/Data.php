@@ -1,5 +1,0 @@
-<?php
-
-class Clever_LoginAuth_Helper_Data extends Mage_Core_Helper_Abstract {
-    
-}
