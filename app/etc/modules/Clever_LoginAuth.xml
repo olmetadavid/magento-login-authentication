@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <modules>
+        <Clever_LoginAuth>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Clever_LoginAuth>
+    </modules>
+</config>
